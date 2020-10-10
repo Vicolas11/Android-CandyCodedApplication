@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,13 +153,29 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Override onOptionsItemSelected">
+      <created>1602349113042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602349113042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Override onOptionsItemSelected" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override onOptionsItemSelected" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1602347775148">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602347775148" />
+    <state x="209" y="0" key="CommitChangelistDialog2" timestamp="1602349099182">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="209" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602349099182" />
     <state width="1323" height="317" key="GridCell.Tab.0.bottom" timestamp="1602329734157">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -174,6 +192,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="317" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602329734156" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602349128401">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602349128401" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1602346797877">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
